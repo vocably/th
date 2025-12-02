@@ -1,0 +1,5 @@
+moment
+period
+time
+while
+instance
