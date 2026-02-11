@@ -1,0 +1,3 @@
+basin
+bowl
+tub
