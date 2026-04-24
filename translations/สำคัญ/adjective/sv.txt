@@ -1,1 +1,3 @@
-["viktig","betydelsefull","framstående"]
+viktig
+betydelsefull
+framstående

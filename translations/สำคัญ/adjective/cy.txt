@@ -1,1 +1,3 @@
-["pwysig","hanfodol","prif"]
+pwysig
+hanfodol
+prif

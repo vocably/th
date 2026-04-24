@@ -1,1 +1,3 @@
-["aptuveni","rupji","īsumā"]
+aptuveni
+rupji
+īsumā

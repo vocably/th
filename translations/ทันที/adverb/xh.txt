@@ -1,1 +1,3 @@
-["Ngokukhawuleza","Nangoko","Kwakhona"]
+Ngokukhawuleza
+Nangoko
+Kwakhona

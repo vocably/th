@@ -1,1 +1,2 @@
-["dílseacht","ionracas"]
+dílseacht
+ionracas

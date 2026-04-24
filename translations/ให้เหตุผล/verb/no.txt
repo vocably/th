@@ -1,1 +1,2 @@
-["begrunne","forklare"]
+begrunne
+forklare

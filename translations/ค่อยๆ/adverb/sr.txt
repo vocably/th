@@ -1,1 +1,2 @@
-["polako","lagano"]
+polako
+lagano

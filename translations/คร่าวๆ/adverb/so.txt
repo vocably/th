@@ -1,1 +1,3 @@
-["si kooban","qiyaas ahaan","guud ahaan"]
+si kooban
+qiyaas ahaan
+guud ahaan

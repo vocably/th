@@ -1,1 +1,3 @@
-["implicitno","posredno","razumevajoče"]
+implicitno
+posredno
+razumevajoče

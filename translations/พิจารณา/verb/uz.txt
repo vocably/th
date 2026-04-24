@@ -1,1 +1,2 @@
-["ko'rib chiqmoq","mulohaza qilmoq"]
+ko'rib chiqmoq
+mulohaza qilmoq

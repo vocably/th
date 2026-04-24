@@ -1,1 +1,2 @@
-["pianu","adagiu"]
+pianu
+adagiu

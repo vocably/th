@@ -1,1 +1,3 @@
-["neo-thoileach","ain-deònach","neo-dheònach"]
+neo-thoileach
+ain-deònach
+neo-dheònach

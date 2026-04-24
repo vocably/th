@@ -1,1 +1,3 @@
-["ongewollt","onfräiwëlleg","net bereet"]
+ongewollt
+onfräiwëlleg
+net bereet

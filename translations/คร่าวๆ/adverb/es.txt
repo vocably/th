@@ -1,1 +1,3 @@
-["aproximadamente","a grandes rasgos","en resumen"]
+aproximadamente
+a grandes rasgos
+en resumen

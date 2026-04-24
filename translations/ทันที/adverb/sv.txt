@@ -1,1 +1,3 @@
-["omedelbart","genast","strax"]
+omedelbart
+genast
+strax

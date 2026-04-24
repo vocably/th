@@ -1,1 +1,2 @@
-["pripensi","juĝi"]
+pripensi
+juĝi

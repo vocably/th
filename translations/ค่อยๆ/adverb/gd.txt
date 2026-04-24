@@ -1,1 +1,2 @@
-["gu slaodach","gu socair"]
+gu slaodach
+gu socair

@@ -1,1 +1,3 @@
-["bohlokoa","sehlohlolwane","hlooho"]
+bohlokoa
+sehlohlolwane
+hlooho

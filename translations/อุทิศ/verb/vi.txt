@@ -1,1 +1,3 @@
-["hiến dâng","cống hiến","dâng"]
+hiến dâng
+cống hiến
+dâng

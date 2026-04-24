@@ -1,1 +1,3 @@
-["vastahakoinen","haluton","pakotettu"]
+vastahakoinen
+haluton
+pakotettu

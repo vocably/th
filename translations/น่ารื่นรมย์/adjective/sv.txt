@@ -1,1 +1,3 @@
-["angenäm","trevlig","behaglig"]
+angenäm
+trevlig
+behaglig

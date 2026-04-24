@@ -1,1 +1,3 @@
-["vernoléissegen","ignoréieren","verloossen"]
+vernoléissegen
+ignoréieren
+verloossen

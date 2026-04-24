@@ -1,1 +1,2 @@
-["elasteco","adaptebleco"]
+elasteco
+adaptebleco

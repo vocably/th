@@ -1,1 +1,3 @@
-["ägna","offra","tillägna"]
+ägna
+offra
+tillägna

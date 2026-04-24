@@ -1,1 +1,2 @@
-["A bayyane","Sarai"]
+A bayyane
+Sarai

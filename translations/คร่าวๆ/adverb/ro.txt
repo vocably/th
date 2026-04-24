@@ -1,1 +1,3 @@
-["aproximativ","sumar","pe scurt"]
+aproximativ
+sumar
+pe scurt

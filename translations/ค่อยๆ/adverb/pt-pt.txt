@@ -1,1 +1,2 @@
-["lentamente","devagar"]
+lentamente
+devagar

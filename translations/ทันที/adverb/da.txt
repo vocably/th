@@ -1,1 +1,3 @@
-["straks","øjeblikkeligt","prompte"]
+straks
+øjeblikkeligt
+prompte

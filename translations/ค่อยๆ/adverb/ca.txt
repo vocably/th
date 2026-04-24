@@ -1,1 +1,2 @@
-["lentament","a poc a poc"]
+lentament
+a poc a poc

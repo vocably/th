@@ -1,1 +1,2 @@
-["joustavuus","mukautuvuus"]
+joustavuus
+mukautuvuus

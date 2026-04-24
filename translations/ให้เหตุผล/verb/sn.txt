@@ -1,1 +1,2 @@
-["tsanangura","rondedzera"]
+tsanangura
+rondedzera

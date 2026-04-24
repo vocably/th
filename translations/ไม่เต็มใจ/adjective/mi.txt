@@ -1,1 +1,3 @@
-["mangere","ngengere","pohēhē"]
+mangere
+ngengere
+pohēhē

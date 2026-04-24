@@ -1,1 +1,3 @@
-["i këndshëm","i pëlqyeshëm","gazmor"]
+i këndshëm
+i pëlqyeshëm
+gazmor

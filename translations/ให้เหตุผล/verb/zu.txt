@@ -1,1 +1,2 @@
-["chaza","bonisa"]
+chaza
+bonisa

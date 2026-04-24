@@ -1,1 +1,3 @@
-["implicitamente","subentendido","indiretamente"]
+implicitamente
+subentendido
+indiretamente

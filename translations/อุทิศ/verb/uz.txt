@@ -1,1 +1,3 @@
-["bag'ishlamoq","fidokorlik qilmoq","ehson qilmoq"]
+bag'ishlamoq
+fidokorlik qilmoq
+ehson qilmoq

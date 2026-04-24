@@ -1,1 +1,3 @@
-["vuma","yamkela","thetha inyani"]
+vuma
+yamkela
+thetha inyani

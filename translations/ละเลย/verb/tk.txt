@@ -1,1 +1,3 @@
-["ähmiýet bermezlik","üns bermezlik","ýerine ýetirmezlik"]
+ähmiýet bermezlik
+üns bermezlik
+ýerine ýetirmezlik

@@ -1,1 +1,3 @@
-["imediat","chiar atunci","fără întârziere"]
+imediat
+chiar atunci
+fără întârziere

@@ -1,1 +1,3 @@
-["yarda","amince","furta"]
+yarda
+amince
+furta

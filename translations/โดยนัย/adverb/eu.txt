@@ -1,1 +1,3 @@
-["zeharka","ez-zuzenean","inplizituki"]
+zeharka
+ez-zuzenean
+inplizituki

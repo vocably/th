@@ -1,1 +1,3 @@
-["razılaşmaq","qəbul etmək","etiraf etmək"]
+razılaşmaq
+qəbul etmək
+etiraf etmək

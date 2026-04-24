@@ -1,1 +1,3 @@
-["implicitno","podrazumijevano","prešutno"]
+implicitno
+podrazumijevano
+prešutno

@@ -1,1 +1,3 @@
-["impliciet","stilzwijgend","indirect"]
+impliciet
+stilzwijgend
+indirect

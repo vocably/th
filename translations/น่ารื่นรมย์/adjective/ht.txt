@@ -1,1 +1,3 @@
-["agreab","bèl","kontan"]
+agreab
+bèl
+kontan

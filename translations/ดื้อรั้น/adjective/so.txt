@@ -1,1 +1,2 @@
-["Madax adag","Caasi"]
+Madax adag
+Caasi

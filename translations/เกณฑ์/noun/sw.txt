@@ -1,1 +1,2 @@
-["kanuni","kigezo"]
+kanuni
+kigezo

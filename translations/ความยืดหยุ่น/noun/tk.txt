@@ -1,1 +1,2 @@
-["çeýeligi","uýgunlaşma"]
+çeýeligi
+uýgunlaşma

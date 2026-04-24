@@ -1,1 +1,2 @@
-["maingat","alerto"]
+maingat
+alerto

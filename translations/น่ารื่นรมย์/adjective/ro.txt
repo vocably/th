@@ -1,1 +1,3 @@
-["plăcut","agreabil","delicios"]
+plăcut
+agreabil
+delicios

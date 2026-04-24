@@ -1,1 +1,2 @@
-["gofalus","darbodus"]
+gofalus
+darbodus

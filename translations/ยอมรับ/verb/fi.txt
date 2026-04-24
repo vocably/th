@@ -1,1 +1,3 @@
-["myöntää","hyväksyä","suostua"]
+myöntää
+hyväksyä
+suostua

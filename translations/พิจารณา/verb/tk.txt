@@ -1,1 +1,2 @@
-["seljermek","derňemek"]
+seljermek
+derňemek

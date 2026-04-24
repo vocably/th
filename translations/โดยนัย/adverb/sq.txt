@@ -1,1 +1,3 @@
-["nënkuptuar","implicit","kuptimplotë"]
+nënkuptuar
+implicit
+kuptimplotë

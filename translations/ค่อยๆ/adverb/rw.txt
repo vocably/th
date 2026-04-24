@@ -1,1 +1,2 @@
-["buhorobuhoro","gake gake"]
+buhorobuhoro
+gake gake

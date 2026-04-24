@@ -1,1 +1,2 @@
-["kutosha","sawasawa"]
+kutosha
+sawasawa

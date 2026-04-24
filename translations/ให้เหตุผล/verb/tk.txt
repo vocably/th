@@ -1,1 +1,2 @@
-["esaslandyrmak","düşündirmek"]
+esaslandyrmak
+düşündirmek

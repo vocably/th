@@ -1,1 +1,3 @@
-["dedicate","devote","sacrifice"]
+dedicate
+devote
+sacrifice

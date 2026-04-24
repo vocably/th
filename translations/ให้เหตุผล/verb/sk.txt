@@ -1,1 +1,2 @@
-["odôvodniť","vysvetliť"]
+odôvodniť
+vysvetliť

@@ -1,1 +1,2 @@
-["Lawelawe","Kūpono"]
+Lawelawe
+Kūpono

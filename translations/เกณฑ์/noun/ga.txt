@@ -1,1 +1,2 @@
-["caighdeán","riail"]
+caighdeán
+riail

@@ -1,1 +1,3 @@
-["hemen","derhal","anında"]
+hemen
+derhal
+anında

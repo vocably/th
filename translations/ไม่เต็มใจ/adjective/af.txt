@@ -1,1 +1,3 @@
-["onwillig","teësinnig","ongerne"]
+onwillig
+teësinnig
+ongerne

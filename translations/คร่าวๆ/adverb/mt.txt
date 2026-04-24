@@ -1,1 +1,3 @@
-["bejn wieħed u ieħor","madwar","approssimattivament"]
+bejn wieħed u ieħor
+madwar
+approssimattivament

@@ -1,1 +1,3 @@
-["aceitar","concordar","confessar"]
+aceitar
+concordar
+confessar

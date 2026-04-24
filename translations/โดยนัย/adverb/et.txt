@@ -1,1 +1,3 @@
-["kaudselt","implitsiitselt","varjatult"]
+kaudselt
+implitsiitselt
+varjatult

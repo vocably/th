@@ -1,1 +1,3 @@
-["burkoltan","hallgatólagosan","implicit módon"]
+burkoltan
+hallgatólagosan
+implicit módon

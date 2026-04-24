@@ -1,1 +1,2 @@
-["açıkça","belli ki"]
+açıkça
+belli ki

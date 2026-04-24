@@ -1,1 +1,2 @@
-["kryterium","zasada"]
+kryterium
+zasada

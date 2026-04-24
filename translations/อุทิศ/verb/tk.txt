@@ -1,1 +1,3 @@
-["bagyşlamak","sadaka bermek","jan bermek"]
+bagyşlamak
+sadaka bermek
+jan bermek

@@ -1,1 +1,2 @@
-["tính cách","tâm tính"]
+tính cách
+tâm tính

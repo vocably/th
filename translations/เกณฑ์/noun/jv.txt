@@ -1,1 +1,2 @@
-["pathokan","dhasar"]
+pathokan
+dhasar

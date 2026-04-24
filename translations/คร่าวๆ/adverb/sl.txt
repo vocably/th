@@ -1,1 +1,3 @@
-["približno","na kratko","okvirno"]
+približno
+na kratko
+okvirno

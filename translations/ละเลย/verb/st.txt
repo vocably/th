@@ -1,1 +1,3 @@
-["ho hlokomoloha","ho se tsotelle","ho furalla"]
+ho hlokomoloha
+ho se tsotelle
+ho furalla

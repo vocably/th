@@ -1,1 +1,2 @@
-["lealtad","fidelidad"]
+lealtad
+fidelidad

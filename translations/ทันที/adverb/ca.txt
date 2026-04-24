@@ -1,1 +1,3 @@
-["immediatament","a l'instant","de seguida"]
+immediatament
+a l'instant
+de seguida

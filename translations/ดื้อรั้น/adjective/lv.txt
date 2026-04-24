@@ -1,1 +1,2 @@
-["spītīgs","stūrgalvīgs"]
+spītīgs
+stūrgalvīgs

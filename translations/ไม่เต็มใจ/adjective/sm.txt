@@ -1,1 +1,3 @@
-["musu","faamalosia","lē fiafia"]
+musu
+faamalosia
+lē fiafia

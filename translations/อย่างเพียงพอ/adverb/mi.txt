@@ -1,1 +1,2 @@
-["rawaka","rite tonu"]
+rawaka
+rite tonu

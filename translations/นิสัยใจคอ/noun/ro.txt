@@ -1,1 +1,2 @@
-["caracter","fire"]
+caracter
+fire

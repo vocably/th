@@ -1,1 +1,2 @@
-["stour","dàna"]
+stour
+dàna

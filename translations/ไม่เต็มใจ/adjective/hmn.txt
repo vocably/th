@@ -1,1 +1,3 @@
-["tsis xav","tsis kam","raws siab"]
+tsis xav
+tsis kam
+raws siab

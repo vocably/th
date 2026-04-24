@@ -1,1 +1,3 @@
-["zanemariti","napustiti","ignorirati"]
+zanemariti
+napustiti
+ignorirati

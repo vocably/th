@@ -1,1 +1,2 @@
-["evidentment","clarament"]
+evidentment
+clarament

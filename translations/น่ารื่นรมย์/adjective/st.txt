@@ -1,1 +1,3 @@
-["thabisa","natefisa","kgahlisa"]
+thabisa
+natefisa
+kgahlisa

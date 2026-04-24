@@ -1,1 +1,3 @@
-["pranoj","bie dakord","pajtohem"]
+pranoj
+bie dakord
+pajtohem

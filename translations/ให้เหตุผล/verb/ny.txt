@@ -1,1 +1,2 @@
-["fotokoza","longosola"]
+fotokoza
+longosola

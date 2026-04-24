@@ -1,1 +1,3 @@
-["elfogad","beleegyezik","bevall"]
+elfogad
+beleegyezik
+bevall

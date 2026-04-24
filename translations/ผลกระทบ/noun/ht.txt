@@ -1,1 +1,2 @@
-["konsekans","efè"]
+konsekans
+efè

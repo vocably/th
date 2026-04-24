@@ -1,1 +1,2 @@
-["a examina","a considera"]
+a examina
+a considera

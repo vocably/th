@@ -1,1 +1,2 @@
-["magpaliwanag","mangatuwiran"]
+magpaliwanag
+mangatuwiran

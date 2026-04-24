@@ -1,1 +1,2 @@
-["indokol","megokol"]
+indokol
+megokol

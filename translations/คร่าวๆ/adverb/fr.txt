@@ -1,1 +1,3 @@
-["approximativement","en gros","à peu près"]
+approximativement
+en gros
+à peu près

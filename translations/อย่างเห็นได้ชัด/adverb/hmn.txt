@@ -1,1 +1,2 @@
-["pom tseeb","pom meej"]
+pom tseeb
+pom meej

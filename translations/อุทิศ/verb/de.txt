@@ -1,1 +1,3 @@
-["widmen","opfern","hingeben"]
+widmen
+opfern
+hingeben

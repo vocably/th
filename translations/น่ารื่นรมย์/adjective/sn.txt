@@ -1,1 +1,3 @@
-["kunakidza","kufadza","kutapira"]
+kunakidza
+kufadza
+kutapira

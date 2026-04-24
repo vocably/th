@@ -1,1 +1,2 @@
-["tohe","pākiki"]
+tohe
+pākiki

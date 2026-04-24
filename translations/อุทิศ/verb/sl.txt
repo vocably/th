@@ -1,1 +1,3 @@
-["posvetiti","darovati","žrtvovati"]
+posvetiti
+darovati
+žrtvovati

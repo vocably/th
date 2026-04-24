@@ -1,1 +1,3 @@
-["kubvuma","kubvumirana","kureurura"]
+kubvuma
+kubvumirana
+kureurura

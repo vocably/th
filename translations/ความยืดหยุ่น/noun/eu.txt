@@ -1,1 +1,2 @@
-["malgutasun","elastikotasun"]
+malgutasun
+elastikotasun

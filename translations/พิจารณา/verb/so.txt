@@ -1,1 +1,2 @@
-["falanqayn","go'aan qaadasho"]
+falanqayn
+go'aan qaadasho

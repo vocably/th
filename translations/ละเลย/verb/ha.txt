@@ -1,1 +1,3 @@
-["ya yi watsi","ya yi sakaci","ya bar"]
+ya yi watsi
+ya yi sakaci
+ya bar

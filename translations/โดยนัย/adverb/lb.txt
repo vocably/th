@@ -1,1 +1,3 @@
-["implizit","indirekt","stillschwéie gend"]
+implizit
+indirekt
+stillschwéie gend

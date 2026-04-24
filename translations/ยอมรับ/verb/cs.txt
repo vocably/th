@@ -1,1 +1,3 @@
-["přiznat","připustit","akceptovat"]
+přiznat
+připustit
+akceptovat

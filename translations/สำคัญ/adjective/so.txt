@@ -1,1 +1,3 @@
-["muhiim ah","qiimo leh","asaasi ah"]
+muhiim ah
+qiimo leh
+asaasi ah

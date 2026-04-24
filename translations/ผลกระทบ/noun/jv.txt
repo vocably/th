@@ -1,1 +1,2 @@
-["Dampak","Efek"]
+Dampak
+Efek

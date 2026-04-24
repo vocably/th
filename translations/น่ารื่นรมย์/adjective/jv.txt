@@ -1,1 +1,3 @@
-["nyenengake","endah","asri"]
+nyenengake
+endah
+asri

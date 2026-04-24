@@ -1,1 +1,3 @@
-["gu soilleir","gu follaiseach","gu h-ainmichte"]
+gu soilleir
+gu follaiseach
+gu h-ainmichte

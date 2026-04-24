@@ -1,1 +1,2 @@
-["asoslash","dalillash"]
+asoslash
+dalillash

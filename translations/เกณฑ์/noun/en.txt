@@ -1,1 +1,2 @@
-["criterion","standard"]
+criterion
+standard

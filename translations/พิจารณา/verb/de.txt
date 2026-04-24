@@ -1,1 +1,2 @@
-["prüfen","untersuchen"]
+prüfen
+untersuchen

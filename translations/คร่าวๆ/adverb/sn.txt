@@ -1,1 +1,3 @@
-["zvishoma","zvisina kunyatsorondedzerwa","zvinenge"]
+zvishoma
+zvisina kunyatsorondedzerwa
+zvinenge

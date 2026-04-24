@@ -1,1 +1,3 @@
-["gogoz","nahigabe","borondaterik gabe"]
+gogoz
+nahigabe
+borondaterik gabe

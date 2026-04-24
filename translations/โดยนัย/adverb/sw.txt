@@ -1,1 +1,3 @@
-["kwa maana","kwa uficho","kwa dokezo"]
+kwa maana
+kwa uficho
+kwa dokezo

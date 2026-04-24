@@ -1,1 +1,3 @@
-["riluttante","indisposto","svogliato"]
+riluttante
+indisposto
+svogliato

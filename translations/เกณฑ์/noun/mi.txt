@@ -1,1 +1,2 @@
-["ture","aratohu"]
+ture
+aratohu

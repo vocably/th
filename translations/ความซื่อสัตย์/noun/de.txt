@@ -1,1 +1,2 @@
-["die Ehrlichkeit","die Treue"]
+die Ehrlichkeit
+die Treue

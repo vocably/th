@@ -1,1 +1,3 @@
-["ongeveer","ruwweg","globaal"]
+ongeveer
+ruwweg
+globaal

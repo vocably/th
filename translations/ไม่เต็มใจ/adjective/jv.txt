@@ -1,1 +1,3 @@
-["wegah","emoh","ora gelem"]
+wegah
+emoh
+ora gelem

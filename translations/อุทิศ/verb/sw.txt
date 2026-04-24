@@ -1,1 +1,3 @@
-["kutoa","kujitolea","kusadaka"]
+kutoa
+kujitolea
+kusadaka

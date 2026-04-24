@@ -1,1 +1,3 @@
-["immédiatement","sur-le-champ","aussitôt"]
+immédiatement
+sur-le-champ
+aussitôt

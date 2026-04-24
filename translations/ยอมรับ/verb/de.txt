@@ -1,1 +1,3 @@
-["zustimmen","akzeptieren","zugeben"]
+zustimmen
+akzeptieren
+zugeben

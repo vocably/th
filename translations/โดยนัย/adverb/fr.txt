@@ -1,1 +1,3 @@
-["implicitement","tacitement","sous-entendu"]
+implicitement
+tacitement
+sous-entendu

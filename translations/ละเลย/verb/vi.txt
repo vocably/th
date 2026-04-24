@@ -1,1 +1,3 @@
-["bỏ bê","lơ là","xao nhãng"]
+bỏ bê
+lơ là
+xao nhãng

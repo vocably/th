@@ -1,1 +1,3 @@
-["naqbel","nammetti","naċċetta"]
+naqbel
+nammetti
+naċċetta

@@ -1,1 +1,2 @@
-["nwayoo nwayoo","jiri nwayoo"]
+nwayoo nwayoo
+jiri nwayoo

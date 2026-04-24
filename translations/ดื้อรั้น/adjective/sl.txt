@@ -1,1 +1,2 @@
-["trdovraten","svoglav"]
+trdovraten
+svoglav

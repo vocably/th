@@ -1,1 +1,2 @@
-["gusuzuma","kwemeza"]
+gusuzuma
+kwemeza

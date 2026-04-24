@@ -1,1 +1,3 @@
-["takoj","nemudoma","hipoma"]
+takoj
+nemudoma
+hipoma

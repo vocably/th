@@ -1,1 +1,2 @@
-["xustificar","argumentar"]
+xustificar
+argumentar

@@ -1,1 +1,2 @@
-["extenso","integral"]
+extenso
+integral

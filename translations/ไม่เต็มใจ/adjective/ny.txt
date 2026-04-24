@@ -1,1 +1,3 @@
-["kukakamiza","kukakamizidwa","kukakamiza mtima"]
+kukakamiza
+kukakamizidwa
+kukakamiza mtima

@@ -1,1 +1,3 @@
-["zaniedbywać","lekceważyć","opuszczać"]
+zaniedbywać
+lekceważyć
+opuszczać

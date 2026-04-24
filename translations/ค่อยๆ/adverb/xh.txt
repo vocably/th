@@ -1,1 +1,2 @@
-["Ngokucothayo","Kancinci"]
+Ngokucothayo
+Kancinci

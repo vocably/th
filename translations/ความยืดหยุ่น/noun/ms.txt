@@ -1,1 +1,2 @@
-["kelenturan","fleksibiliti"]
+kelenturan
+fleksibiliti

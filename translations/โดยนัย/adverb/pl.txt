@@ -1,1 +1,3 @@
-["niejawnie","pośrednio","domyślnie"]
+niejawnie
+pośrednio
+domyślnie

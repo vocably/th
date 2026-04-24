@@ -1,1 +1,3 @@
-["kira-kira","watara","klira-kliru"]
+kira-kira
+watara
+klira-kliru

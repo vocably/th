@@ -1,1 +1,2 @@
-["sababisha","eleza"]
+sababisha
+eleza

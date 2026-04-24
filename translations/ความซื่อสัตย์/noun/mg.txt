@@ -1,1 +1,2 @@
-["fahamarinana","tsy fivadihana"]
+fahamarinana
+tsy fivadihana

@@ -1,1 +1,3 @@
-["agrabla","ĉarma","ĝojiga"]
+agrabla
+ĉarma
+ĝojiga

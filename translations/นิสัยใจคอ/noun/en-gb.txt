@@ -1,1 +1,2 @@
-["character","disposition"]
+character
+disposition

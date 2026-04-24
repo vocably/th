@@ -1,1 +1,3 @@
-["Pakarepo","Ipapo","Nenguva isipi"]
+Pakarepo
+Ipapo
+Nenguva isipi

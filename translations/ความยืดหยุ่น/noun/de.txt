@@ -1,1 +1,2 @@
-["die Flexibilität","die Elastizität"]
+die Flexibilität
+die Elastizität

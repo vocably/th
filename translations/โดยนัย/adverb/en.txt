@@ -1,1 +1,3 @@
-["implicitly","tacitly","allusively"]
+implicitly
+tacitly
+allusively

@@ -1,1 +1,3 @@
-["subitu","immediatamente","di colpu"]
+subitu
+immediatamente
+di colpu

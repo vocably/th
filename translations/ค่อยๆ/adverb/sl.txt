@@ -1,1 +1,2 @@
-["počasi","nežno"]
+počasi
+nežno

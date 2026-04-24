@@ -1,1 +1,2 @@
-["effetto","impatto"]
+effetto
+impatto

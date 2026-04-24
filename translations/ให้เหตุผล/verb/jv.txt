@@ -1,1 +1,2 @@
-["njlentrehake","nerangake"]
+njlentrehake
+nerangake

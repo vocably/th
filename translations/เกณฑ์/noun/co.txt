@@ -1,1 +1,2 @@
-["norma","regula"]
+norma
+regula

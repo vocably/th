@@ -1,1 +1,2 @@
-["değerlendirmek","muhakeme etmek"]
+değerlendirmek
+muhakeme etmek

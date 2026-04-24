@@ -1,1 +1,3 @@
-["penting","utama","mustahak"]
+penting
+utama
+mustahak

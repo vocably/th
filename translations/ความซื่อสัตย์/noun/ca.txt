@@ -1,1 +1,2 @@
-["lleialtat","honestedat"]
+lleialtat
+honestedat

@@ -1,1 +1,3 @@
-["gutura","kwitanga","gushyira hamwe"]
+gutura
+kwitanga
+gushyira hamwe

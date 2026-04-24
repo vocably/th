@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","etinasız olmaq","saymamaq"]
+laqeyd yanaşmaq
+etinasız olmaq
+saymamaq

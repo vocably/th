@@ -1,1 +1,2 @@
-["malinaw","kitang-kita"]
+malinaw
+kitang-kita

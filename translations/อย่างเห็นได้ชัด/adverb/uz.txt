@@ -1,1 +1,2 @@
-["aniq","ravshan"]
+aniq
+ravshan

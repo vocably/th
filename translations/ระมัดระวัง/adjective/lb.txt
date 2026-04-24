@@ -1,1 +1,2 @@
-["virsiichteg","opmierksam"]
+virsiichteg
+opmierksam

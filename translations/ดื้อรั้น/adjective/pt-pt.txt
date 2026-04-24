@@ -1,1 +1,2 @@
-["teimoso","obstinado"]
+teimoso
+obstinado

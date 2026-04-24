@@ -1,1 +1,3 @@
-["nekavējoties","tūlīt","uzreiz"]
+nekavējoties
+tūlīt
+uzreiz

@@ -1,1 +1,2 @@
-["ubunyangamugayo","kwizera"]
+ubunyangamugayo
+kwizera

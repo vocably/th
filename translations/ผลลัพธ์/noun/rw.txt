@@ -1,1 +1,2 @@
-["igihingwa","umusaruro"]
+igihingwa
+umusaruro

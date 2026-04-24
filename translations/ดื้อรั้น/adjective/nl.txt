@@ -1,1 +1,2 @@
-["koppig","eigenwijs"]
+koppig
+eigenwijs

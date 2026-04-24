@@ -1,1 +1,2 @@
-["kānāwai","kauoha"]
+kānāwai
+kauoha

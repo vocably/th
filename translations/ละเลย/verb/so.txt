@@ -1,1 +1,3 @@
-["dayac","illaaw","dhayalsi"]
+dayac
+illaaw
+dhayalsi

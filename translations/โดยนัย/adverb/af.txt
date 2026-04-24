@@ -1,1 +1,3 @@
-["implisiet","stilswyend","onuitgesproke"]
+implisiet
+stilswyend
+onuitgesproke

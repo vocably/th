@@ -1,1 +1,2 @@
-["ndikim","pasojë"]
+ndikim
+pasojë

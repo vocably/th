@@ -1,1 +1,2 @@
-["Miharihary","Mazava"]
+Miharihary
+Mazava

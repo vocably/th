@@ -1,1 +1,2 @@
-["xulq-atvor","fe'l-atvor"]
+xulq-atvor
+fe'l-atvor

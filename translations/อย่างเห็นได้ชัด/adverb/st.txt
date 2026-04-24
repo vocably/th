@@ -1,1 +1,2 @@
-["ka ho hlaka","ka mokhoa o hlakileng"]
+ka ho hlaka
+ka mokhoa o hlakileng

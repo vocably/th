@@ -1,1 +1,2 @@
-["ýuwaş-ýuwaşdan","haýal"]
+ýuwaş-ýuwaşdan
+haýal

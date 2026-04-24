@@ -1,1 +1,2 @@
-["tính đàn hồi","tính linh hoạt"]
+tính đàn hồi
+tính linh hoạt

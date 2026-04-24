@@ -1,1 +1,3 @@
-["hauv ntsiab lus","hauv lub ntsiab lus","hauv qhov ntsiab lus"]
+hauv ntsiab lus
+hauv lub ntsiab lus
+hauv qhov ntsiab lus

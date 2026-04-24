@@ -1,1 +1,2 @@
-["manino","mautinoa"]
+manino
+mautinoa

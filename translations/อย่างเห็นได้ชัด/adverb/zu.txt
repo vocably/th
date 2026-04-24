@@ -1,1 +1,2 @@
-["ngokucacile","ngokusobala"]
+ngokucacile
+ngokusobala

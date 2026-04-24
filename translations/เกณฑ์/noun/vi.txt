@@ -1,1 +1,2 @@
-["tiêu chuẩn","quy tắc"]
+tiêu chuẩn
+quy tắc

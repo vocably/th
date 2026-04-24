@@ -1,1 +1,3 @@
-["ngakoni","nampa","sarujuk"]
+ngakoni
+nampa
+sarujuk

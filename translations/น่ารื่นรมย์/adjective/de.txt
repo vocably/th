@@ -1,1 +1,3 @@
-["angenehm","erfreulich","entzückend"]
+angenehm
+erfreulich
+entzückend

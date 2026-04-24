@@ -1,1 +1,2 @@
-["wouma khosi","wosamvera"]
+wouma khosi
+wosamvera

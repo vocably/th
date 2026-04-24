@@ -1,1 +1,2 @@
-["teimudo","obstinado"]
+teimudo
+obstinado

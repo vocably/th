@@ -1,1 +1,3 @@
-["implicite","subkomprenate","nerekte"]
+implicite
+subkomprenate
+nerekte

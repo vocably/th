@@ -1,1 +1,3 @@
-["pataki","gbogi","olori"]
+pataki
+gbogi
+olori

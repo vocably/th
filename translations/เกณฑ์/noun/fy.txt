@@ -1,1 +1,2 @@
-["noarm","regel"]
+noarm
+regel

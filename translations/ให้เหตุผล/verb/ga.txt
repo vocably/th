@@ -1,1 +1,2 @@
-["réasúnaigh","tabhair cúiseanna"]
+réasúnaigh
+tabhair cúiseanna

@@ -1,1 +1,3 @@
-["garrantzitsu","nagusi","funtsezko"]
+garrantzitsu
+nagusi
+funtsezko

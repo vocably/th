@@ -1,1 +1,3 @@
-["priznať","akceptovať","súhlasiť"]
+priznať
+akceptovať
+súhlasiť

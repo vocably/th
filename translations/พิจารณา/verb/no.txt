@@ -1,1 +1,2 @@
-["vurdere","bedømme"]
+vurdere
+bedømme

@@ -1,1 +1,2 @@
-["kesan","impak"]
+kesan
+impak

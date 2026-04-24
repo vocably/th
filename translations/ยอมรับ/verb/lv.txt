@@ -1,1 +1,3 @@
-["piekrist","atzīt","akceptēt"]
+piekrist
+atzīt
+akceptēt

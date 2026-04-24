@@ -1,1 +1,2 @@
-["matigas ang ulo","mapagmatigas"]
+matigas ang ulo
+mapagmatigas

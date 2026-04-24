@@ -1,1 +1,2 @@
-["patokan","standar"]
+patokan
+standar

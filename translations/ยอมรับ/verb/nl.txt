@@ -1,1 +1,3 @@
-["toegeven","erkennen","bekennen"]
+toegeven
+erkennen
+bekennen

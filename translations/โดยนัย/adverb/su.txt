@@ -1,1 +1,3 @@
-["sacara implisit","sacara teu langsung","sacara tersirat"]
+sacara implisit
+sacara teu langsung
+sacara tersirat

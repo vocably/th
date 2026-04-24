@@ -1,1 +1,3 @@
-["widmen","opferen","schenken"]
+widmen
+opferen
+schenken

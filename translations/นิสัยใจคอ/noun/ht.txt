@@ -1,1 +1,2 @@
-["karaktè","tanperaman"]
+karaktè
+tanperaman

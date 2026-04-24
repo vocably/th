@@ -1,1 +1,3 @@
-["strinjati se","sprejeti","priznati"]
+strinjati se
+sprejeti
+priznati

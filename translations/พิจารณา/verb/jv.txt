@@ -1,1 +1,2 @@
-["ngadili","mutusake"]
+ngadili
+mutusake

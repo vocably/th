@@ -1,1 +1,2 @@
-["attento","cauto"]
+attento
+cauto

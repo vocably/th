@@ -1,1 +1,2 @@
-["mgbanwe","ike ngbanwe"]
+mgbanwe
+ike ngbanwe

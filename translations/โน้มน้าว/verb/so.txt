@@ -1,1 +1,2 @@
-["qancin","sasabid"]
+qancin
+sasabid

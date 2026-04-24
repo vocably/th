@@ -1,1 +1,2 @@
-["klè","evidamman"]
+klè
+evidamman

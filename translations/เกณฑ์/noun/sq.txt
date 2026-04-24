@@ -1,1 +1,2 @@
-["kriter","normë"]
+kriter
+normë

@@ -1,1 +1,3 @@
-["accordéieren","zoustëmmen","bekennen"]
+accordéieren
+zoustëmmen
+bekennen

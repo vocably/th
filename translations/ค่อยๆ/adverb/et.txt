@@ -1,1 +1,2 @@
-["aeglaselt","ettevaatlikult"]
+aeglaselt
+ettevaatlikult

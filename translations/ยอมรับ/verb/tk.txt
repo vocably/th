@@ -1,1 +1,3 @@
-["kabul etmek","razylaşmak","boýun almak"]
+kabul etmek
+razylaşmak
+boýun almak

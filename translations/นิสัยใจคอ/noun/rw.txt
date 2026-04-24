@@ -1,1 +1,2 @@
-["imiterere","ingeso"]
+imiterere
+ingeso

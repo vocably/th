@@ -1,1 +1,2 @@
-["kajujuran","kasatiaan"]
+kajujuran
+kasatiaan

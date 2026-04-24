@@ -1,1 +1,3 @@
-["kohe","otsekohe","silmapilkselt"]
+kohe
+otsekohe
+silmapilkselt

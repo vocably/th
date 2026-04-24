@@ -1,1 +1,3 @@
-["təxminən","üstüörtülü","qısaca"]
+təxminən
+üstüörtülü
+qısaca

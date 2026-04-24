@@ -1,1 +1,3 @@
-["körülbelül","hozzávetőlegesen","vázlatosan"]
+körülbelül
+hozzávetőlegesen
+vázlatosan

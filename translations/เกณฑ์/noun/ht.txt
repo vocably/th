@@ -1,1 +1,2 @@
-["kritè","règ"]
+kritè
+règ

@@ -1,1 +1,3 @@
-["yoqimli","xushnud","maroqli"]
+yoqimli
+xushnud
+maroqli

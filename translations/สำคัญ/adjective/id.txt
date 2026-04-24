@@ -1,1 +1,3 @@
-["penting","utama","berharga"]
+penting
+utama
+berharga

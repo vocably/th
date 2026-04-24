@@ -1,1 +1,2 @@
-["degil","keras kepala"]
+degil
+keras kepala

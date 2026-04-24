@@ -1,1 +1,2 @@
-["teu nurut","bangor"]
+teu nurut
+bangor

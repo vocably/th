@@ -1,1 +1,3 @@
-["sekilas","kira-kira","secara garis besar"]
+sekilas
+kira-kira
+secara garis besar

@@ -1,1 +1,2 @@
-["ho feto-fetoha","bonolo"]
+ho feto-fetoha
+bonolo

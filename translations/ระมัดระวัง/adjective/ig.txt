@@ -1,1 +1,2 @@
-["kpachara anya","lezie anya"]
+kpachara anya
+lezie anya

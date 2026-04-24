@@ -1,1 +1,2 @@
-["obstina","persista"]
+obstina
+persista

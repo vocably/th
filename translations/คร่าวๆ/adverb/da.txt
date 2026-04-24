@@ -1,1 +1,3 @@
-["omtrent","cirka","groft sagt"]
+omtrent
+cirka
+groft sagt

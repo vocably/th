@@ -1,1 +1,2 @@
-["razmotriti","prosuditi"]
+razmotriti
+prosuditi

@@ -1,1 +1,3 @@
-["tata","āhua","poto"]
+tata
+āhua
+poto

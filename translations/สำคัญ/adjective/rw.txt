@@ -1,1 +1,3 @@
-["ingenzi","ihiga ayandi","ntangiriro"]
+ingenzi
+ihiga ayandi
+ntangiriro

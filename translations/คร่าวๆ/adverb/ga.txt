@@ -1,1 +1,3 @@
-["go neasach","go garbh","thart ar"]
+go neasach
+go garbh
+thart ar

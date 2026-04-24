@@ -1,1 +1,3 @@
-["ungern","widerwillig","unfreiwillig"]
+ungern
+widerwillig
+unfreiwillig

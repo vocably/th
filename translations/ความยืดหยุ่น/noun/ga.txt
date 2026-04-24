@@ -1,1 +1,2 @@
-["solúbthacht","leaisteachas"]
+solúbthacht
+leaisteachas

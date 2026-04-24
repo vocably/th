@@ -1,1 +1,2 @@
-["iguzosi ike","eziokwu"]
+iguzosi ike
+eziokwu

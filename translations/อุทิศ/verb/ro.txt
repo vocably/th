@@ -1,1 +1,3 @@
-["a dedica","a oferi","a jertfi"]
+a dedica
+a oferi
+a jertfi

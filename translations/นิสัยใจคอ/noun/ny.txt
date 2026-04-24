@@ -1,1 +1,2 @@
-["makhalidwe","chikhalidwe"]
+makhalidwe
+chikhalidwe

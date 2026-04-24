@@ -1,1 +1,3 @@
-["yn ymhlyg","yn anuniongyrchol","yn gynnil"]
+yn ymhlyg
+yn anuniongyrchol
+yn gynnil

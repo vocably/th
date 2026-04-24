@@ -1,1 +1,2 @@
-["akivaizdžiai","aiškiai"]
+akivaizdžiai
+aiškiai

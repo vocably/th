@@ -1,1 +1,3 @@
-["akcepti","konsenti","konfesi"]
+akcepti
+konsenti
+konfesi

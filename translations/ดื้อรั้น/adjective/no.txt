@@ -1,1 +1,2 @@
-["sta","trassig"]
+sta
+trassig

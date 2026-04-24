@@ -1,1 +1,3 @@
-["aneane","kokoke","i kekahi manawa"]
+aneane
+kokoke
+i kekahi manawa

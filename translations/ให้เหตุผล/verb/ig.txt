@@ -1,1 +1,2 @@
-["Kọwaa","Kwado"]
+Kọwaa
+Kwado

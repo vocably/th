@@ -1,1 +1,3 @@
-["implicit","underforstået","indforstået"]
+implicit
+underforstået
+indforstået

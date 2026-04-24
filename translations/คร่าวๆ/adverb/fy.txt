@@ -1,1 +1,3 @@
-["yn 't koart","rûchwei","likernôch"]
+yn 't koart
+rûchwei
+likernôch

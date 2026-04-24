@@ -1,1 +1,2 @@
-["manazava","manaporofo"]
+manazava
+manaporofo

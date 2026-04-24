@@ -1,1 +1,3 @@
-["numanomai","netiesiogiai","impliciškai"]
+numanomai
+netiesiogiai
+impliciškai

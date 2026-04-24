@@ -1,1 +1,2 @@
-["tydeligvis","åpenbart"]
+tydeligvis
+åpenbart

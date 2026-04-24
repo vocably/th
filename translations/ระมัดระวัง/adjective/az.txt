@@ -1,1 +1,2 @@
-["ehtiyatlı","diqqətli"]
+ehtiyatlı
+diqqətli

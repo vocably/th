@@ -1,1 +1,3 @@
-["ʻoluʻolu","leʻaleʻa","hauʻoli"]
+ʻoluʻolu
+leʻaleʻa
+hauʻoli

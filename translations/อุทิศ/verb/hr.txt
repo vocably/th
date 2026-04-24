@@ -1,1 +1,3 @@
-["posvetiti","žrtvovati","dati"]
+posvetiti
+žrtvovati
+dati

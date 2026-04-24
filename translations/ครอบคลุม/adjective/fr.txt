@@ -1,1 +1,2 @@
-["complet","global"]
+complet
+global

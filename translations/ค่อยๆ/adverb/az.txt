@@ -1,1 +1,2 @@
-["yavaş-yavaş","asta-asta"]
+yavaş-yavaş
+asta-asta

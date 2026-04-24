@@ -1,1 +1,2 @@
-["personlighet","karakter"]
+personlighet
+karakter

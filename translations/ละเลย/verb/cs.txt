@@ -1,1 +1,3 @@
-["zanedbávat","opomenout","ignorovat"]
+zanedbávat
+opomenout
+ignorovat

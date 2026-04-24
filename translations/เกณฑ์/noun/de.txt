@@ -1,1 +1,2 @@
-["die Norm","der Maßstab"]
+die Norm
+der Maßstab

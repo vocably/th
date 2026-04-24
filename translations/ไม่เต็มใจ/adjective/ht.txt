@@ -1,1 +1,3 @@
-["kont volonte","ak repiyans","kontrekè"]
+kont volonte
+ak repiyans
+kontrekè

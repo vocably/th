@@ -1,1 +1,3 @@
-["implicitně","nepřímo","subtilně"]
+implicitně
+nepřímo
+subtilně

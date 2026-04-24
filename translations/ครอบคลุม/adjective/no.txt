@@ -1,1 +1,2 @@
-["omfattende","dekkende"]
+omfattende
+dekkende

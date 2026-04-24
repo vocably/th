@@ -1,1 +1,3 @@
-["kubalulekile","okubalulekileyo","esibalulekileyo"]
+kubalulekile
+okubalulekileyo
+esibalulekileyo

@@ -1,1 +1,3 @@
-["oluline","tähtis","peamine"]
+oluline
+tähtis
+peamine

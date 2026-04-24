@@ -1,1 +1,2 @@
-["ceannairceach","stuacach"]
+ceannairceach
+stuacach

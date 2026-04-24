@@ -1,1 +1,3 @@
-["ka mokhoa o sa tobang","ka mokhoa o utloisisoang","ka mokhoa o bolelang ho hong"]
+ka mokhoa o sa tobang
+ka mokhoa o utloisisoang
+ka mokhoa o bolelang ho hong

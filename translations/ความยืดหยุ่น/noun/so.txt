@@ -1,1 +1,2 @@
-["dabacsanaan","rogrogmi"]
+dabacsanaan
+rogrogmi

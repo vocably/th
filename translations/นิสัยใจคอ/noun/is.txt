@@ -1,1 +1,2 @@
-["eðli","skapsmuni"]
+eðli
+skapsmuni

@@ -1,1 +1,2 @@
-["təsir","nəticə"]
+təsir
+nəticə

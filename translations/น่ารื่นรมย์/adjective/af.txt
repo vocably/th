@@ -1,1 +1,3 @@
-["aangenaam","heerlik","verrukklik"]
+aangenaam
+heerlik
+verrukklik

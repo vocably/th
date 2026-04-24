@@ -1,1 +1,2 @@
-["mai kulle","mai lura"]
+mai kulle
+mai lura

@@ -1,1 +1,3 @@
-["aproximadamente","grozamente","por riba"]
+aproximadamente
+grozamente
+por riba

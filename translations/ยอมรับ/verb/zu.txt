@@ -1,1 +1,3 @@
-["vuma","amukela","dumela"]
+vuma
+amukela
+dumela

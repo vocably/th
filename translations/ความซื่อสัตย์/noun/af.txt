@@ -1,1 +1,2 @@
-["lojaliteit","getrouheid"]
+lojaliteit
+getrouheid

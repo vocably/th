@@ -1,1 +1,3 @@
-["kuregeredza","kusada","kusafarira"]
+kuregeredza
+kusada
+kusafarira

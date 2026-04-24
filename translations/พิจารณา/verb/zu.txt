@@ -1,1 +1,2 @@
-["ukuhlola","ukucabanga"]
+ukuhlola
+ukucabanga

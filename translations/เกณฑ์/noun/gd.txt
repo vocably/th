@@ -1,1 +1,2 @@
-["riaghailt","còd"]
+riaghailt
+còd

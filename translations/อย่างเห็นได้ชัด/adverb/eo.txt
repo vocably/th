@@ -1,1 +1,2 @@
-["evidente","klare"]
+evidente
+klare

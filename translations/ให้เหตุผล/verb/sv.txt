@@ -1,1 +1,2 @@
-["motivera","argumentera"]
+motivera
+argumentera

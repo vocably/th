@@ -1,1 +1,2 @@
-["karakter","narav"]
+karakter
+narav

@@ -1,1 +1,2 @@
-["cukup","sampun"]
+cukup
+sampun

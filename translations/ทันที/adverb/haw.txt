@@ -1,1 +1,3 @@
-["koke","koke koke","i kēlā manawa koke"]
+koke
+koke koke
+i kēlā manawa koke

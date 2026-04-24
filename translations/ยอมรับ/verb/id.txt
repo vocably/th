@@ -1,1 +1,3 @@
-["mengakui","menerima","menyetujui"]
+mengakui
+menerima
+menyetujui

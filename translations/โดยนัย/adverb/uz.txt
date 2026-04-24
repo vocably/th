@@ -1,1 +1,3 @@
-["yashirin ma'noda","ko'zda tutilgan","anglashilgan"]
+yashirin ma'noda
+ko'zda tutilgan
+anglashilgan

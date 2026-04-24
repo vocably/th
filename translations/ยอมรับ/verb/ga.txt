@@ -1,1 +1,3 @@
-["aontú","admháil","glacadh"]
+aontú
+admháil
+glacadh

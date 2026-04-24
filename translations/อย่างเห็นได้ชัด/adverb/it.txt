@@ -1,1 +1,2 @@
-["evidentemente","chiaramente"]
+evidentemente
+chiaramente

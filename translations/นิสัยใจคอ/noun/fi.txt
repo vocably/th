@@ -1,1 +1,2 @@
-["luonne","mieli"]
+luonne
+mieli

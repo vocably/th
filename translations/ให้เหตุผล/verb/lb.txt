@@ -1,1 +1,2 @@
-["begrënnen","argumentéieren"]
+begrënnen
+argumentéieren

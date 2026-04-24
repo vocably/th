@@ -1,1 +1,3 @@
-["faʻataʻitaʻiga","tusa","pe tusa"]
+faʻataʻitaʻiga
+tusa
+pe tusa

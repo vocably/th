@@ -1,1 +1,3 @@
-["imediatamente","naquele instante","subitamente"]
+imediatamente
+naquele instante
+subitamente

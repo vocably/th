@@ -1,1 +1,2 @@
-["lý giải","giải thích"]
+lý giải
+giải thích

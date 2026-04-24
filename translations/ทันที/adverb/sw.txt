@@ -1,1 +1,3 @@
-["mara moja","papo hapo","ghafla"]
+mara moja
+papo hapo
+ghafla

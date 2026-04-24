@@ -1,1 +1,3 @@
-["importante","fondamentale","principale"]
+importante
+fondamentale
+principale

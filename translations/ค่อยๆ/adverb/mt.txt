@@ -1,1 +1,2 @@
-["bil-mod","bil-mod il-mod"]
+bil-mod
+bil-mod il-mod

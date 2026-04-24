@@ -1,1 +1,3 @@
-["serta-merta","serta","seketika"]
+serta-merta
+serta
+seketika

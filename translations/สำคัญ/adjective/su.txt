@@ -1,1 +1,3 @@
-["penting","utama","pokok"]
+penting
+utama
+pokok

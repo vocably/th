@@ -1,1 +1,3 @@
-["xoş","həzzverici","şən"]
+xoş
+həzzverici
+şən

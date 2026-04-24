@@ -1,1 +1,3 @@
-["go neamhdhíreach","go intuigthe","go follasach"]
+go neamhdhíreach
+go intuigthe
+go follasach

@@ -1,1 +1,3 @@
-["göni däl","gizlin","ýanaşyk"]
+göni däl
+gizlin
+ýanaşyk

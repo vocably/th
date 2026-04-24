@@ -1,1 +1,3 @@
-["reluctant","unwilling","disinclined"]
+reluctant
+unwilling
+disinclined

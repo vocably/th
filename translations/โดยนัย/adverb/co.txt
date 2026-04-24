@@ -1,1 +1,3 @@
-["implicitamente","sottintesu","tacitamente"]
+implicitamente
+sottintesu
+tacitamente

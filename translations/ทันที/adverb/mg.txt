@@ -1,1 +1,3 @@
-["Avy hatrany","Tamin'izay fotoana izay","Tsy nisy hataka andro"]
+Avy hatrany
+Tamin'izay fotoana izay
+Tsy nisy hataka andro

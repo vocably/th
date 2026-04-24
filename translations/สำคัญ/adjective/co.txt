@@ -1,1 +1,3 @@
-["impurtante","essenziale","principale"]
+impurtante
+essenziale
+principale

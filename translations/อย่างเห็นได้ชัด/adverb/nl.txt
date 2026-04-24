@@ -1,1 +1,2 @@
-["duidelijk","klaarblijkelijk"]
+duidelijk
+klaarblijkelijk

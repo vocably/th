@@ -1,1 +1,3 @@
-["eskaini","opari","eman"]
+eskaini
+opari
+eman

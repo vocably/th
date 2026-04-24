@@ -1,1 +1,2 @@
-["cunsiderà","esaminà"]
+cunsiderà
+esaminà

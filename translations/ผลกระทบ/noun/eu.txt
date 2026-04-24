@@ -1,1 +1,2 @@
-["eragin","ondorio"]
+eragin
+ondorio

@@ -1,1 +1,2 @@
-["lojalitet","ærlighet"]
+lojalitet
+ærlighet

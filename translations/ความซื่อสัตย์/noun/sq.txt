@@ -1,1 +1,2 @@
-["besnikëri","ndërgjegje"]
+besnikëri
+ndërgjegje

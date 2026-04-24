@@ -1,1 +1,2 @@
-["pamantayan","alituntunin"]
+pamantayan
+alituntunin

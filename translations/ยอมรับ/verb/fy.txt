@@ -1,1 +1,3 @@
-["akseptearje","tajaan","bekenne"]
+akseptearje
+tajaan
+bekenne

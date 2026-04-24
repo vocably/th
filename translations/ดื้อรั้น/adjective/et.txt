@@ -1,1 +1,2 @@
-["kangekaelne","jonnakas"]
+kangekaelne
+jonnakas

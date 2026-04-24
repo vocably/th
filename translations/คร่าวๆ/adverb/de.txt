@@ -1,1 +1,3 @@
-["ungefähr","grob","annähernd"]
+ungefähr
+grob
+annähernd

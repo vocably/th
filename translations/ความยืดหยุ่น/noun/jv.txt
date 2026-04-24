@@ -1,1 +1,2 @@
-["keluwesan","elastisitas"]
+keluwesan
+elastisitas

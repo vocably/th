@@ -1,1 +1,2 @@
-["očigledno","jasno"]
+očigledno
+jasno

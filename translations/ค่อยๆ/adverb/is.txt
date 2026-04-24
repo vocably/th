@@ -1,1 +1,2 @@
-["hægt","varlega"]
+hægt
+varlega

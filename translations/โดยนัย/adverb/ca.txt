@@ -1,1 +1,3 @@
-["implícitament","tàcitament","indirectament"]
+implícitament
+tàcitament
+indirectament

@@ -1,1 +1,3 @@
-["svarbus","reikšmingas","esminis"]
+svarbus
+reikšmingas
+esminis

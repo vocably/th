@@ -1,1 +1,2 @@
-["kalenturan","kamampuh adaptasi"]
+kalenturan
+kamampuh adaptasi

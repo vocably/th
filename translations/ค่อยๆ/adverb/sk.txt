@@ -1,1 +1,2 @@
-["pomaly","zľahka"]
+pomaly
+zľahka

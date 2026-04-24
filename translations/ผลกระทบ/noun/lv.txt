@@ -1,1 +1,2 @@
-["ietekme","sekas"]
+ietekme
+sekas

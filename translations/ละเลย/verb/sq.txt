@@ -1,1 +1,3 @@
-["neglizhoj","lë pas dore","braktis"]
+neglizhoj
+lë pas dore
+braktis

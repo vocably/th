@@ -1,1 +1,3 @@
-["nan da nan","lokacin","yanzu"]
+nan da nan
+lokacin
+yanzu

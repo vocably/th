@@ -1,1 +1,3 @@
-["paaukoti","paskirti","atsiduoti"]
+paaukoti
+paskirti
+atsiduoti

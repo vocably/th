@@ -1,1 +1,2 @@
-["lankstumas","elastingumas"]
+lankstumas
+elastingumas

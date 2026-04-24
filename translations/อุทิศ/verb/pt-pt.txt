@@ -1,1 +1,3 @@
-["dedicar","oferecer","sacrificar"]
+dedicar
+oferecer
+sacrificar

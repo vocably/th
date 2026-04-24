@@ -1,1 +1,3 @@
-["ongeféier","zirka","grob"]
+ongeféier
+zirka
+grob

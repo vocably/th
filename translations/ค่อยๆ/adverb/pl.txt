@@ -1,1 +1,2 @@
-["powoli","ostrożnie"]
+powoli
+ostrożnie

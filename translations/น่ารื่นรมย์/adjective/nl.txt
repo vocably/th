@@ -1,1 +1,3 @@
-["aangenaam","plezierig","verrukkelijk"]
+aangenaam
+plezierig
+verrukkelijk

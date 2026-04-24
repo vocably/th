@@ -1,1 +1,3 @@
-["atsegin","eder","zoragarri"]
+atsegin
+eder
+zoragarri

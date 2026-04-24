@@ -1,1 +1,2 @@
-["fana ka mabaka","hlalosa"]
+fana ka mabaka
+hlalosa

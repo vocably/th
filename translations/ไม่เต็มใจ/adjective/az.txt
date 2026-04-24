@@ -1,1 +1,3 @@
-["istəksiz","könülsüz","məcburi"]
+istəksiz
+könülsüz
+məcburi

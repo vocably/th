@@ -1,1 +1,2 @@
-["rheol","egwyddor"]
+rheol
+egwyddor

@@ -1,1 +1,2 @@
-["megfontol","mérlegel"]
+megfontol
+mérlegel

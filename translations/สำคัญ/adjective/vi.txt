@@ -1,1 +1,3 @@
-["quan trọng","chủ yếu","cốt yếu"]
+quan trọng
+chủ yếu
+cốt yếu

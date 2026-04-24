@@ -1,1 +1,2 @@
-["langsomt","forsigtigt"]
+langsomt
+forsigtigt

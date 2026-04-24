@@ -1,1 +1,3 @@
-["Agad","Kaagad","Noon din"]
+Agad
+Kaagad
+Noon din

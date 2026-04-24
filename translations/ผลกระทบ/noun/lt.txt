@@ -1,1 +1,2 @@
-["pasekmė","padarinys"]
+pasekmė
+padarinys

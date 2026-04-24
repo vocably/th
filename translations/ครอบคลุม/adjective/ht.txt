@@ -1,1 +1,2 @@
-["konplè","total"]
+konplè
+total

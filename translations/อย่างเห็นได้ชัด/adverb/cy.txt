@@ -1,1 +1,2 @@
-["yn amlwg","yn glir"]
+yn amlwg
+yn glir

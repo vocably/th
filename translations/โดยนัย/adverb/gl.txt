@@ -1,1 +1,3 @@
-["implicitamente","subxacentemente","tácitamente"]
+implicitamente
+subxacentemente
+tácitamente

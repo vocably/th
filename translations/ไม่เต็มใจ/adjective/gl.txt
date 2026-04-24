@@ -1,1 +1,3 @@
-["a contragusto","de mala gana","á forza"]
+a contragusto
+de mala gana
+á forza

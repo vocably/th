@@ -1,1 +1,2 @@
-["critère","norme"]
+critère
+norme

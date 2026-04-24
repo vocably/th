@@ -1,1 +1,2 @@
-["açyk-aýdyň","görnetin"]
+açyk-aýdyň
+görnetin

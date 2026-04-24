@@ -1,1 +1,2 @@
-["kriteriýa","ölçeg"]
+kriteriýa
+ölçeg

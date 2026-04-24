@@ -1,1 +1,3 @@
-["lumela","amohela","dumellana"]
+lumela
+amohela
+dumellana

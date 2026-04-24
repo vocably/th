@@ -1,1 +1,3 @@
-["erken","toegee","aanvaar"]
+erken
+toegee
+aanvaar

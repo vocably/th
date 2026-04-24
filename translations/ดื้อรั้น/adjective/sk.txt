@@ -1,1 +1,2 @@
-["tvrdohlavý","svojhlavý"]
+tvrdohlavý
+svojhlavý

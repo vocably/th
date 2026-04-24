@@ -1,1 +1,3 @@
-["dễ chịu","thú vị","hài lòng"]
+dễ chịu
+thú vị
+hài lòng

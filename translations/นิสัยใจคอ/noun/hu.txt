@@ -1,1 +1,2 @@
-["természet","jellem"]
+természet
+jellem

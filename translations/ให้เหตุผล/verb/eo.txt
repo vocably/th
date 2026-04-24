@@ -1,1 +1,2 @@
-["argumenti","rezoni"]
+argumenti
+rezoni

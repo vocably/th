@@ -1,1 +1,3 @@
-["aproximadament","a grans trets","si fa no fa"]
+aproximadament
+a grans trets
+si fa no fa

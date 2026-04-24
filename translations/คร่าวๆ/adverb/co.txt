@@ -1,1 +1,3 @@
-["apprussimatamente","all'incirca","grosso modu"]
+apprussimatamente
+all'incirca
+grosso modu

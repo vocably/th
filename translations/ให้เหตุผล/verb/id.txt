@@ -1,1 +1,2 @@
-["beralasan","berargumen"]
+beralasan
+berargumen

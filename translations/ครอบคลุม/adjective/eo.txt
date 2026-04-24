@@ -1,1 +1,2 @@
-["ampleksa","ĝenerala"]
+ampleksa
+ĝenerala

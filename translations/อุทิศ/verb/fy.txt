@@ -1,1 +1,3 @@
-["opfere","wije","oanbiede"]
+opfere
+wije
+oanbiede

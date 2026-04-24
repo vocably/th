@@ -1,1 +1,3 @@
-["sơ qua","đại khái","khoảng chừng"]
+sơ qua
+đại khái
+khoảng chừng

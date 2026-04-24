@@ -1,1 +1,3 @@
-["ileghara anya","ịhapụ","ịghara ime"]
+ileghara anya
+ịhapụ
+ịghara ime

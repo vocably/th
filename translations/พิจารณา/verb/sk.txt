@@ -1,1 +1,2 @@
-["posúdiť","zvážiť"]
+posúdiť
+zvážiť

@@ -1,1 +1,3 @@
-["tonu","inamata","i reira tonu"]
+tonu
+inamata
+i reira tonu

@@ -1,1 +1,3 @@
-["ngaturaken","masrahaken","nyumbangaken"]
+ngaturaken
+masrahaken
+nyumbangaken

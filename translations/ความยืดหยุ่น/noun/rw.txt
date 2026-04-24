@@ -1,1 +1,2 @@
-["kuramba","guhererekanya"]
+kuramba
+guhererekanya

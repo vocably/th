@@ -1,1 +1,2 @@
-["kuphatikiza","kufalikira"]
+kuphatikiza
+kufalikira

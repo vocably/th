@@ -1,1 +1,3 @@
-["ka-leexasho","aan-ikhtiyaari ahayn","qasab"]
+ka-leexasho
+aan-ikhtiyaari ahayn
+qasab

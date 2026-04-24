@@ -1,1 +1,3 @@
-["minnufih","mill-ewwel","istantanjament"]
+minnufih
+mill-ewwel
+istantanjament

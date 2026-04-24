@@ -1,1 +1,2 @@
-["ghjustificà","spiegà"]
+ghjustificà
+spiegà

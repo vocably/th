@@ -1,1 +1,3 @@
-["belangrik","hoof","essensieel"]
+belangrik
+hoof
+essensieel

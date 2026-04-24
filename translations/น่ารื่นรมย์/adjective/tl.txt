@@ -1,1 +1,3 @@
-["kaaya-aya","nakalulugod","kasiya-siya"]
+kaaya-aya
+nakalulugod
+kasiya-siya

@@ -1,1 +1,3 @@
-["a ka fassara","a ka fahimta","a ka gane"]
+a ka fassara
+a ka fahimta
+a ka gane

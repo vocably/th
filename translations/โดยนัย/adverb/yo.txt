@@ -1,1 +1,3 @@
-["ni aini taara","ni ifura","ni ikoko"]
+ni aini taara
+ni ifura
+ni ikoko

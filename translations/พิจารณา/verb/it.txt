@@ -1,1 +1,2 @@
-["giudicare","decidere"]
+giudicare
+decidere

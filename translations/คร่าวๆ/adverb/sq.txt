@@ -1,1 +1,3 @@
-["përafërsisht","afërsisht","përgjithësisht"]
+përafërsisht
+afërsisht
+përgjithësisht

@@ -1,1 +1,2 @@
-["karakter","sind"]
+karakter
+sind

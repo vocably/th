@@ -1,1 +1,3 @@
-["implied","tacit","understood"]
+implied
+tacit
+understood

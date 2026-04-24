@@ -1,1 +1,3 @@
-["impliċitament","taħt l-ilma","b'mod sottili"]
+impliċitament
+taħt l-ilma
+b'mod sottili

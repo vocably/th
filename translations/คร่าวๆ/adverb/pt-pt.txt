@@ -1,1 +1,3 @@
-["aproximadamente","grosseiramente","por alto"]
+aproximadamente
+grosseiramente
+por alto

@@ -1,1 +1,2 @@
-["elasticita","flexibilita"]
+elasticita
+flexibilita

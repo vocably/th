@@ -1,1 +1,3 @@
-["tuj","senprokraste","momente"]
+tuj
+senprokraste
+momente

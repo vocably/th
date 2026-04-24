@@ -1,1 +1,3 @@
-["ligikaudu","umbkaudu","üldjoontes"]
+ligikaudu
+umbkaudu
+üldjoontes

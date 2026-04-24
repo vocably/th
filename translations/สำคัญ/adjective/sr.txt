@@ -1,1 +1,3 @@
-["važan","bitan","glavan"]
+važan
+bitan
+glavan

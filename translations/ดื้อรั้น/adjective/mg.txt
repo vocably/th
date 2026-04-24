@@ -1,1 +1,2 @@
-["mahery loha","maditra"]
+mahery loha
+maditra

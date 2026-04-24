@@ -1,1 +1,2 @@
-["försiktig","noggrann"]
+försiktig
+noggrann

@@ -1,1 +1,3 @@
-["pomemben","bistven","glaven"]
+pomemben
+bistven
+glaven

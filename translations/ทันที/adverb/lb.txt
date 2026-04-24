@@ -1,1 +1,3 @@
-["direkt","gläich","elo direkt"]
+direkt
+gläich
+elo direkt

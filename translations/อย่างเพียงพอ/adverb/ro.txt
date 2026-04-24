@@ -1,1 +1,2 @@
-["suficient","adecvat"]
+suficient
+adecvat

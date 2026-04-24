@@ -1,1 +1,3 @@
-["rozi bo'lmoq","tan olmoq","qabul qilmoq"]
+rozi bo'lmoq
+tan olmoq
+qabul qilmoq

@@ -1,1 +1,3 @@
-["ar unwaith","yn syth","yn ddi-oed"]
+ar unwaith
+yn syth
+yn ddi-oed

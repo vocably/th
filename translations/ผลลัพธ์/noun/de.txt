@@ -1,1 +1,2 @@
-["das Ergebnis","das Resultat"]
+das Ergebnis
+das Resultat

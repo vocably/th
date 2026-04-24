@@ -1,1 +1,3 @@
-["aceitar","concordar","admitir"]
+aceitar
+concordar
+admitir

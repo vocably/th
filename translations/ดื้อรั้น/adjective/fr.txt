@@ -1,1 +1,2 @@
-["entêté","obstiné"]
+entêté
+obstiné

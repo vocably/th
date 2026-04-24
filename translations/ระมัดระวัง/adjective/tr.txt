@@ -1,1 +1,2 @@
-["dikkatli","özenli"]
+dikkatli
+özenli

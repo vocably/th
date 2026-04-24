@@ -1,1 +1,3 @@
-["mengabaikan","melalaikan","menelantarkan"]
+mengabaikan
+melalaikan
+menelantarkan

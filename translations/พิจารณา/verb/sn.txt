@@ -1,1 +1,2 @@
-["kuongorora","kufungisisa"]
+kuongorora
+kufungisisa

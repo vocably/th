@@ -1,1 +1,2 @@
-["tala um","fá til liðs við sig"]
+tala um
+fá til liðs við sig

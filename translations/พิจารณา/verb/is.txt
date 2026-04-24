@@ -1,1 +1,2 @@
-["dæma","úrskurða"]
+dæma
+úrskurða

@@ -1,1 +1,2 @@
-["elastiklik","çeviklik"]
+elastiklik
+çeviklik

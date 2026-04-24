@@ -1,1 +1,3 @@
-["kwirengagiza","kutitaho","kudaha"]
+kwirengagiza
+kutitaho
+kudaha

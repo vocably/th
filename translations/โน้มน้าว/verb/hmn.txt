@@ -1,1 +1,2 @@
-["yaus","ntxias"]
+yaus
+ntxias

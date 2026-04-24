@@ -1,1 +1,3 @@
-["secara tersirat","secara tidak langsung","secara implisit"]
+secara tersirat
+secara tidak langsung
+secara implisit

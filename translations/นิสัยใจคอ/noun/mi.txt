@@ -1,1 +1,2 @@
-["ahua","kāhua"]
+ahua
+kāhua

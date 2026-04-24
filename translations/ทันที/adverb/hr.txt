@@ -1,1 +1,3 @@
-["odmah","smjesta","istog trena"]
+odmah
+smjesta
+istog trena

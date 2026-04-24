@@ -1,1 +1,2 @@
-["ikna etmek","razı etmek"]
+ikna etmek
+razı etmek

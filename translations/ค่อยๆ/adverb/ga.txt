@@ -1,1 +1,2 @@
-["go mall","go réidh"]
+go mall
+go réidh

@@ -1,1 +1,3 @@
-["kushtoj","sakrifikoj","dhuroj"]
+kushtoj
+sakrifikoj
+dhuroj

@@ -1,1 +1,2 @@
-["wepalyk","dogruçyllyk"]
+wepalyk
+dogruçyllyk

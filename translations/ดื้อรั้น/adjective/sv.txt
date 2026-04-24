@@ -1,1 +1,2 @@
-["envis","hårdnackad"]
+envis
+hårdnackad

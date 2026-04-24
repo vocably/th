@@ -1,1 +1,2 @@
-["astiro","poliki"]
+astiro
+poliki

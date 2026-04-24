@@ -1,1 +1,3 @@
-["heti","välittömästi","samassa"]
+heti
+välittömästi
+samassa

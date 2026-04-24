@@ -1,1 +1,2 @@
-["considerar","juzgar"]
+considerar
+juzgar

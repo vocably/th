@@ -1,1 +1,3 @@
-["takmynan","üstünden","garaz"]
+takmynan
+üstünden
+garaz

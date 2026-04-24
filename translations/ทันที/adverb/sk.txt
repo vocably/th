@@ -1,1 +1,3 @@
-["okamžite","ihneď","hneď"]
+okamžite
+ihneď
+hneď

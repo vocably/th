@@ -1,1 +1,3 @@
-["przyjmować","akceptować","zgadzać się"]
+przyjmować
+akceptować
+zgadzać się

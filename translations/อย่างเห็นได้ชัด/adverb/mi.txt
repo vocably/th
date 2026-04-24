@@ -1,1 +1,2 @@
-["kitea paitia","tino kitea"]
+kitea paitia
+tino kitea

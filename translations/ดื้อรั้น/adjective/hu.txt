@@ -1,1 +1,2 @@
-["makacs","konok"]
+makacs
+konok

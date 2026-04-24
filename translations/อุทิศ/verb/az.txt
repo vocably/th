@@ -1,1 +1,3 @@
-["həsr etmək","qurban vermək","bağışlamaq"]
+həsr etmək
+qurban vermək
+bağışlamaq

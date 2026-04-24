@@ -1,1 +1,3 @@
-["implisiittisesti","epäsuorasti","rivien välistä"]
+implisiittisesti
+epäsuorasti
+rivien välistä

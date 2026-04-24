@@ -1,1 +1,2 @@
-["thuyết phục","lôi kéo"]
+thuyết phục
+lôi kéo

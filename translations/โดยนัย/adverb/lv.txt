@@ -1,1 +1,3 @@
-["netieši","implīcīti","zemtekstā"]
+netieši
+implīcīti
+zemtekstā

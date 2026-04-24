@@ -1,1 +1,2 @@
-["áitigh","meall"]
+áitigh
+meall

@@ -1,1 +1,2 @@
-["kết quả","thành quả"]
+kết quả
+thành quả

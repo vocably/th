@@ -1,1 +1,2 @@
-["efiko","sekvo"]
+efiko
+sekvo

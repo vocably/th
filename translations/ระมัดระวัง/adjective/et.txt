@@ -1,1 +1,2 @@
-["ettevaatlik","hoolikas"]
+ettevaatlik
+hoolikas

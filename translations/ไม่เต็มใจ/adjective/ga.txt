@@ -1,1 +1,3 @@
-["drogallach","leisceach","neamhdheonach"]
+drogallach
+leisceach
+neamhdheonach

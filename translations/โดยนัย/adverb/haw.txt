@@ -1,1 +1,3 @@
-["maopopo","huna","mana'o"]
+maopopo
+huna
+mana'o

@@ -1,1 +1,3 @@
-["sumang-ayon","tanggapin","aminin"]
+sumang-ayon
+tanggapin
+aminin

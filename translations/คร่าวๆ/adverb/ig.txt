@@ -1,1 +1,3 @@
-["ihe doro anya","ihe dị ka","ihe dị ka nke ahụ"]
+ihe doro anya
+ihe dị ka
+ihe dị ka nke ahụ

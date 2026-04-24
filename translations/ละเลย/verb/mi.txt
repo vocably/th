@@ -1,1 +1,3 @@
-["whakarere","tūpato kore","wareware"]
+whakarere
+tūpato kore
+wareware

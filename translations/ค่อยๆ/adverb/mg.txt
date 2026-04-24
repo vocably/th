@@ -1,1 +1,2 @@
-["miadana","moramora"]
+miadana
+moramora

@@ -1,1 +1,2 @@
-["dopad","účinek"]
+dopad
+účinek

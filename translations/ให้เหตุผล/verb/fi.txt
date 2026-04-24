@@ -1,1 +1,2 @@
-["perustella","selittää"]
+perustella
+selittää

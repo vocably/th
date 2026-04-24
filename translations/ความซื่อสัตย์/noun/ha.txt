@@ -1,1 +1,2 @@
-["Aminci","Gaskiya"]
+Aminci
+Gaskiya

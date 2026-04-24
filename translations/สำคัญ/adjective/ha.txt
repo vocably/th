@@ -1,1 +1,3 @@
-["mai muhimmanci","mai daraja","mai tasiri"]
+mai muhimmanci
+mai daraja
+mai tasiri

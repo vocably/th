@@ -1,1 +1,2 @@
-["kancane","ngokucophelela"]
+kancane
+ngokucophelela

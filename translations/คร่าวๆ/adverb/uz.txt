@@ -1,1 +1,3 @@
-["taxminan","qisqacha","ustidan-ustiga"]
+taxminan
+qisqacha
+ustidan-ustiga

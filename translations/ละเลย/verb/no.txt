@@ -1,1 +1,3 @@
-["forsømme","negilisjere","unnlate"]
+forsømme
+negilisjere
+unnlate

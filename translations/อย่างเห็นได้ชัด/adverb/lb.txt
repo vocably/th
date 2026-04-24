@@ -1,1 +1,2 @@
-["offensichtlech","evident"]
+offensichtlech
+evident

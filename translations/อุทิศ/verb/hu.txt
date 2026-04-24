@@ -1,1 +1,3 @@
-["felajánl","szentel","áldoz"]
+felajánl
+szentel
+áldoz

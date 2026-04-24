@@ -1,1 +1,3 @@
-["mikilvægur","afgerandi","grundvallaratriði"]
+mikilvægur
+afgerandi
+grundvallaratriði

@@ -1,1 +1,2 @@
-["Auswierkung","Effekt"]
+Auswierkung
+Effekt

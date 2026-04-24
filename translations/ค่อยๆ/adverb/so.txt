@@ -1,1 +1,2 @@
-["si tartiib ah","aayar"]
+si tartiib ah
+aayar

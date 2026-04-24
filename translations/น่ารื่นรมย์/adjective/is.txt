@@ -1,1 +1,3 @@
-["þægilegur","skemmtilegur","ánægjulegur"]
+þægilegur
+skemmtilegur
+ánægjulegur

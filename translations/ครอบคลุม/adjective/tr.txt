@@ -1,1 +1,2 @@
-["kapsamlı","geniş"]
+kapsamlı
+geniş

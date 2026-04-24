@@ -1,1 +1,3 @@
-["Harita keneh","Waktu harita","Langsung"]
+Harita keneh
+Waktu harita
+Langsung

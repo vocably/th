@@ -1,1 +1,3 @@
-["nedelsiant","tuoj pat","iš karto"]
+nedelsiant
+tuoj pat
+iš karto

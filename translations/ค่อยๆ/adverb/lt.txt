@@ -1,1 +1,2 @@
-["lėtai","palaipsniui"]
+lėtai
+palaipsniui

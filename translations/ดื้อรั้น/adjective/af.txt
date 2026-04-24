@@ -1,1 +1,2 @@
-["hardkoppig","koppig"]
+hardkoppig
+koppig

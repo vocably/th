@@ -1,1 +1,3 @@
-["inmediatamente","ao instante","decontado"]
+inmediatamente
+ao instante
+decontado

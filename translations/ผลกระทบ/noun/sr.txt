@@ -1,1 +1,2 @@
-["posledica","uticaj"]
+posledica
+uticaj

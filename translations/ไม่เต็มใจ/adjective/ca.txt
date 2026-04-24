@@ -1,1 +1,3 @@
-["de mala gana","a contracor","a contracorrent"]
+de mala gana
+a contracor
+a contracorrent

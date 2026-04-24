@@ -1,1 +1,2 @@
-["rõ ràng","hiển nhiên"]
+rõ ràng
+hiển nhiên

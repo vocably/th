@@ -1,1 +1,2 @@
-["criteriu","normă"]
+criteriu
+normă

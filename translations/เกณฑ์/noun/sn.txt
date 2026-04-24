@@ -1,1 +1,2 @@
-["mutemo","chiyero"]
+mutemo
+chiyero

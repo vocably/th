@@ -1,1 +1,3 @@
-["yndirekt","stilswijend","ymplisyt"]
+yndirekt
+stilswijend
+ymplisyt

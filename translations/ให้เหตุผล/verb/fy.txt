@@ -1,1 +1,2 @@
-["argumintearje","redeniearje"]
+argumintearje
+redeniearje

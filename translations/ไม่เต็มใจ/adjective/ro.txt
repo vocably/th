@@ -1,1 +1,3 @@
-["nevoitor","fără tragere de inimă","fără voie"]
+nevoitor
+fără tragere de inimă
+fără voie

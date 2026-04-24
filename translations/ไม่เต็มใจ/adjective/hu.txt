@@ -1,1 +1,3 @@
-["kelletlen","vonakodó","nem szívesen"]
+kelletlen
+vonakodó
+nem szívesen

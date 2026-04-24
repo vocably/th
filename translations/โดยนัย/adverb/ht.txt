@@ -1,1 +1,3 @@
-["implicitement","endirekteman","anba anba"]
+implicitement
+endirekteman
+anba anba

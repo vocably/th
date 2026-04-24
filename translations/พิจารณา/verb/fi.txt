@@ -1,1 +1,2 @@
-["harkita","pohtia"]
+harkita
+pohtia

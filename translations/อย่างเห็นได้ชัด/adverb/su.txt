@@ -1,1 +1,2 @@
-["sacara jelas","sacara nyata"]
+sacara jelas
+sacara nyata

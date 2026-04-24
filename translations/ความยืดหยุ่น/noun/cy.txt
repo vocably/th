@@ -1,1 +1,2 @@
-["hyblygrwydd","cydymffurfiaeth"]
+hyblygrwydd
+cydymffurfiaeth

@@ -1,1 +1,2 @@
-["tydligt","uppenbart"]
+tydligt
+uppenbart

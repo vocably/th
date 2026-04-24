@@ -1,1 +1,2 @@
-["a'afiaga","i'uga"]
+a'afiaga
+i'uga

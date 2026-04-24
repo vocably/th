@@ -1,1 +1,3 @@
-["acceptere","indrømme","erkende"]
+acceptere
+indrømme
+erkende

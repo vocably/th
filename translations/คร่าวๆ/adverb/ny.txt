@@ -1,1 +1,3 @@
-["pafupi","pafupifupi","monga"]
+pafupi
+pafupifupi
+monga

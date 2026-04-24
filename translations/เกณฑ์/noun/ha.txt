@@ -1,1 +1,2 @@
-["Ka'ida","Doka"]
+Ka'ida
+Doka

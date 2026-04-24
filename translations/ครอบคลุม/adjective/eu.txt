@@ -1,1 +1,2 @@
-["zabala","integrala"]
+zabala
+integrala

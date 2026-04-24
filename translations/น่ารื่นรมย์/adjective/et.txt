@@ -1,1 +1,3 @@
-["meeldiv","rõõmus","lõbus"]
+meeldiv
+rõõmus
+lõbus

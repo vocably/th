@@ -1,1 +1,2 @@
-["dostatečně","přiměřeně"]
+dostatečně
+přiměřeně

@@ -1,1 +1,2 @@
-["begrunde","argumentere"]
+begrunde
+argumentere

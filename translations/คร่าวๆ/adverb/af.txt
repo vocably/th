@@ -1,1 +1,3 @@
-["rofweg","ongeveer","kortliks"]
+rofweg
+ongeveer
+kortliks

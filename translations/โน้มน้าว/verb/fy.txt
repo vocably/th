@@ -1,1 +1,2 @@
-["oertsjûgje","oerhelje"]
+oertsjûgje
+oerhelje

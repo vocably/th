@@ -1,1 +1,2 @@
-["zvestoba","poštenost"]
+zvestoba
+poštenost

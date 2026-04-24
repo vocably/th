@@ -1,1 +1,2 @@
-["mandinika","mitsara"]
+mandinika
+mitsara

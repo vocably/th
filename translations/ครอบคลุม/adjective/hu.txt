@@ -1,1 +1,2 @@
-["átfogó","teljes"]
+átfogó
+teljes

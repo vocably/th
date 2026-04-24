@@ -1,1 +1,2 @@
-["perlahan-lahan","pelan-pelan"]
+perlahan-lahan
+pelan-pelan

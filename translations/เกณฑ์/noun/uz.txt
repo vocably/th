@@ -1,1 +1,2 @@
-["me'yor","qoida"]
+me'yor
+qoida

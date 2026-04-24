@@ -1,1 +1,3 @@
-["vigtig","betydelig","afgørende"]
+vigtig
+betydelig
+afgørende

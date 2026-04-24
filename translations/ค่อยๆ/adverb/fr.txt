@@ -1,1 +1,2 @@
-["lentement","doucement"]
+lentement
+doucement

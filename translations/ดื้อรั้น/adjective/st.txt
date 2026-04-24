@@ -1,1 +1,2 @@
-["manganga","hlooho e thata"]
+manganga
+hlooho e thata

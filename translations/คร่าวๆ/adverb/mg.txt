@@ -1,1 +1,3 @@
-["tsy amin'ny antsipiriany","tsy feno","tsy araka ny tokony ho izy"]
+tsy amin'ny antsipiriany
+tsy feno
+tsy araka ny tokony ho izy

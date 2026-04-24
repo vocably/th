@@ -1,1 +1,2 @@
-["egiluvchanlik","moslashuvchanlik"]
+egiluvchanlik
+moslashuvchanlik

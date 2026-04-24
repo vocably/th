@@ -1,1 +1,2 @@
-["rugalmasság","hajlékonyság"]
+rugalmasság
+hajlékonyság

@@ -1,1 +1,2 @@
-["redeneren","argumenteren"]
+redeneren
+argumenteren

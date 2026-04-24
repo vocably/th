@@ -1,1 +1,3 @@
-["niechętny","niezdecydowany","nieochoczy"]
+niechętny
+niezdecydowany
+nieochoczy

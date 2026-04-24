@@ -1,1 +1,3 @@
-["đồng ý","chấp nhận","thừa nhận"]
+đồng ý
+chấp nhận
+thừa nhận

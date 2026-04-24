@@ -1,1 +1,2 @@
-["biryardan","dadwerî kirin"]
+biryardan
+dadwerî kirin

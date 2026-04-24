@@ -1,1 +1,2 @@
-["loyalitet","trofasthed"]
+loyalitet
+trofasthed

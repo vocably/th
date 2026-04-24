@@ -1,1 +1,3 @@
-["dearmad","neo-chùramach","trèig"]
+dearmad
+neo-chùramach
+trèig

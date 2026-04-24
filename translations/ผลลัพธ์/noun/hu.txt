@@ -1,1 +1,2 @@
-["eredmény","kimenetel"]
+eredmény
+kimenetel

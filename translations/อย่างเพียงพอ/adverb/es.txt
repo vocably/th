@@ -1,1 +1,2 @@
-["suficientemente","adecuadamente"]
+suficientemente
+adecuadamente

@@ -1,1 +1,3 @@
-["onmiddellijk","meteen","terstond"]
+onmiddellijk
+meteen
+terstond

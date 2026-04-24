@@ -1,1 +1,3 @@
-["enpòtan","esansyèl","kapital"]
+enpòtan
+esansyèl
+kapital

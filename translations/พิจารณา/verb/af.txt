@@ -1,1 +1,2 @@
-["oorweeg","oordeel"]
+oorweeg
+oordeel

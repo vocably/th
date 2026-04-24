@@ -1,1 +1,2 @@
-["godīgums","lojalitāte"]
+godīgums
+lojalitāte

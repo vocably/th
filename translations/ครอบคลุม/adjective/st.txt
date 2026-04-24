@@ -1,1 +1,2 @@
-["phara-phara","akaretsa"]
+phara-phara
+akaretsa

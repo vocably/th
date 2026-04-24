@@ -1,1 +1,2 @@
-["nós","meon"]
+nós
+meon

@@ -1,1 +1,3 @@
-["prihvatiti","složiti se","priznati"]
+prihvatiti
+složiti se
+priznati

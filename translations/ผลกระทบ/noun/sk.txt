@@ -1,1 +1,2 @@
-["dôsledok","vplyv"]
+dôsledok
+vplyv

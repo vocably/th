@@ -1,1 +1,2 @@
-["jembar","nglimputi"]
+jembar
+nglimputi

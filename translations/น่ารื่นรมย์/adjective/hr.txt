@@ -1,1 +1,3 @@
-["ugodan","prijatan","divan"]
+ugodan
+prijatan
+divan

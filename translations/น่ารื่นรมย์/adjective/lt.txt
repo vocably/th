@@ -1,1 +1,3 @@
-["malonus","žavus","džiugus"]
+malonus
+žavus
+džiugus

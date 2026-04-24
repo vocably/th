@@ -1,1 +1,3 @@
-["pjaċevoli","delizzjuż","ferrieħi"]
+pjaċevoli
+delizzjuż
+ferrieħi

@@ -1,1 +1,3 @@
-["üstü kapalı","zımnen","dolaylı olarak"]
+üstü kapalı
+zımnen
+dolaylı olarak

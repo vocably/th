@@ -1,1 +1,2 @@
-["ahlola","etsa qeto"]
+ahlola
+etsa qeto

@@ -1,1 +1,3 @@
-["menjëherë","tashmë","papritmas"]
+menjëherë
+tashmë
+papritmas

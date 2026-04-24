@@ -1,1 +1,3 @@
-["negligenciar","abandonar","omitir"]
+negligenciar
+abandonar
+omitir

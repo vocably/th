@@ -1,1 +1,3 @@
-["berehala","bat-batean","orduan"]
+berehala
+bat-batean
+orduan

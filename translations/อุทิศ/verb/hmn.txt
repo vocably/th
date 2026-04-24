@@ -1,1 +1,3 @@
-["pab","muab","txi"]
+pab
+muab
+txi

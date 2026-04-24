@@ -1,1 +1,2 @@
-["wazi","dhahiri"]
+wazi
+dhahiri

@@ -1,1 +1,3 @@
-["seketika","saat itu juga","dengan segera"]
+seketika
+saat itu juga
+dengan segera

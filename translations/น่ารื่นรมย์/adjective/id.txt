@@ -1,1 +1,3 @@
-["menyenangkan","menggembirakan","menyenangkan hati"]
+menyenangkan
+menggembirakan
+menyenangkan hati

@@ -1,1 +1,3 @@
-["muri make","mu buryo buke","hafi"]
+muri make
+mu buryo buke
+hafi

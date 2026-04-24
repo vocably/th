@@ -1,1 +1,2 @@
-["lamulo","malamulo"]
+lamulo
+malamulo

@@ -1,1 +1,3 @@
-["sofort","gleich","umgehend"]
+sofort
+gleich
+umgehend

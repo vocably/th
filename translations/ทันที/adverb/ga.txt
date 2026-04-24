@@ -1,1 +1,3 @@
-["láithreach","ar an bpointe boise","gan mhoill"]
+láithreach
+ar an bpointe boise
+gan mhoill

@@ -1,1 +1,2 @@
-["isi ike","ndu"]
+isi ike
+ndu

@@ -1,1 +1,2 @@
-["A hankali","A sannu"]
+A hankali
+A sannu

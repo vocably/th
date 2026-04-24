@@ -1,1 +1,3 @@
-["kupereka","kudzipereka","kupereka nsembe"]
+kupereka
+kudzipereka
+kupereka nsembe

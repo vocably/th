@@ -1,1 +1,2 @@
-["omhyggelig","forsigtig"]
+omhyggelig
+forsigtig

@@ -1,1 +1,3 @@
-["ngaleso sikhathi","masinyane","khona manjalo"]
+ngaleso sikhathi
+masinyane
+khona manjalo

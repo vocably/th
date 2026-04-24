@@ -1,1 +1,2 @@
-["wyraźnie","oczywiście"]
+wyraźnie
+oczywiście

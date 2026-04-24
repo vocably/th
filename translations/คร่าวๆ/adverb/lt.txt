@@ -1,1 +1,3 @@
-["apytiksliai","grubiai","maždaug"]
+apytiksliai
+grubiai
+maždaug

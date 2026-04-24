@@ -1,1 +1,3 @@
-["kuvomereza","kuvomera","kuvomerezedwa"]
+kuvomereza
+kuvomera
+kuvomerezedwa

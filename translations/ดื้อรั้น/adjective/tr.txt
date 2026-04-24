@@ -1,1 +1,2 @@
-["inatçı","dik kafalı"]
+inatçı
+dik kafalı

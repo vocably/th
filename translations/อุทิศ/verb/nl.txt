@@ -1,1 +1,3 @@
-["wijden","offeren","toewijden"]
+wijden
+offeren
+toewijden

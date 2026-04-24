@@ -1,1 +1,2 @@
-["kokëfortë","kryeneç"]
+kokëfortë
+kryeneç

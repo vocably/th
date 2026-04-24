@@ -1,1 +1,2 @@
-["tulafono","faiga"]
+tulafono
+faiga

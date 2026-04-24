@@ -1,1 +1,3 @@
-["kellemes","élvezetes","gyönyörű"]
+kellemes
+élvezetes
+gyönyörű

@@ -1,1 +1,2 @@
-["temati","burugogor"]
+temati
+burugogor

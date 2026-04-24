@@ -1,1 +1,3 @@
-["takriban","kwa ufupi","kwa jumla"]
+takriban
+kwa ufupi
+kwa jumla

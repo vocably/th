@@ -1,1 +1,3 @@
-["mahalaga","importante","pangunahin"]
+mahalaga
+importante
+pangunahin

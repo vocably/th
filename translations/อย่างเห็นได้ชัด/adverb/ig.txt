@@ -1,1 +1,2 @@
-["n'ụzọ doro anya","n'ụzọ pụtara ìhè"]
+n'ụzọ doro anya
+n'ụzọ pụtara ìhè

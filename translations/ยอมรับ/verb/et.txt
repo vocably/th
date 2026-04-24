@@ -1,1 +1,3 @@
-["nõustuma","aktsepteerima","tunnistama"]
+nõustuma
+aktsepteerima
+tunnistama

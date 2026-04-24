@@ -1,1 +1,3 @@
-["tam sim ntawd","kiag tam sim ntawd","thaum ntawd"]
+tam sim ntawd
+kiag tam sim ntawd
+thaum ntawd

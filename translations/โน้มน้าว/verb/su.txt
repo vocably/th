@@ -1,1 +1,2 @@
-["ngolo","ngajak"]
+ngolo
+ngajak

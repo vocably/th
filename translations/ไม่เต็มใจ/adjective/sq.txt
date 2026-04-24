@@ -1,1 +1,3 @@
-["i pavullnetshëm","me pahir","i ngurruar"]
+i pavullnetshëm
+me pahir
+i ngurruar

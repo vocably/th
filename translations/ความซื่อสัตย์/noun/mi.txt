@@ -1,1 +1,2 @@
-["pononga","piripono"]
+pononga
+piripono

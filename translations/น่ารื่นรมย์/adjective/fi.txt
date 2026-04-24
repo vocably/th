@@ -1,1 +1,3 @@
-["miellyttävä","nautittava","ilahduttava"]
+miellyttävä
+nautittava
+ilahduttava

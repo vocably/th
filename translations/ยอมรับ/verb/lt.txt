@@ -1,1 +1,3 @@
-["sutikti","pripažinti","patvirtinti"]
+sutikti
+pripažinti
+patvirtinti

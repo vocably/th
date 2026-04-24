@@ -1,1 +1,3 @@
-["tiomnaigh","cainigh","tabhair"]
+tiomnaigh
+cainigh
+tabhair

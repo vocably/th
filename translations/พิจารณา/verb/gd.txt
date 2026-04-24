@@ -1,1 +1,2 @@
-["breithneachadh","co-dhùnadh"]
+breithneachadh
+co-dhùnadh

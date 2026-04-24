@@ -1,1 +1,2 @@
-["netije","täsir"]
+netije
+täsir

@@ -1,1 +1,2 @@
-["vaikutus","seuraus"]
+vaikutus
+seuraus
